@@ -19,7 +19,8 @@ def deal_card():
     return card
 
 def calculate_score(cards):
-    """check score, 0 stands for blackhjack"""
+    """check score, 0 stands for blackjack"""
+    """ if score > 21 , swap Ace value from 11 to 1"""
     if len(cards) == 2 and sum(cards) == 21:
         return 0
     
@@ -30,11 +31,13 @@ def calculate_score(cards):
 
 
 def play_game():
+    """main engine for blackjack"""
     print(logo)
     user_cards = []
     cpu_cards = []
     over = False
     
+    #deal cards
     for _ in range(2):
         user_cards.append(deal_card())
         cpu_cards.append(deal_card())
@@ -63,6 +66,7 @@ def play_game():
         
 
 def compare(user_score, cpu_score):
+    """score compiling"""
     if user_score == cpu_score:
         print("It's a Draw....")
     elif user_score > 21:
