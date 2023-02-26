@@ -1,6 +1,5 @@
-#Number Guessing Game Objectives:
+#Number Guessing Game 
 
-# Include an ASCII art logo.
 # Allow the player to submit a guess for a number between 1 and 100.
 # Check user's guess against actual answer. Print "Too high." or "Too low." depending on the user's answer. 
 # If they got the answer correct, show the actual answer to the player.
@@ -53,7 +52,7 @@ def play_game():
             print("Too Low!")
             attempts -= 1
         
-    print("You ran out of guesses..")
+    print(f"You ran out of guesses.. the answer was {winning_number}")
 
 play_game()
 
