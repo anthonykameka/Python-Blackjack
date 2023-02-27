@@ -10,7 +10,7 @@ import random
 
 def play_game():
     score = 0
-    still_playing = True
+    still_playing = True #game runner
     while still_playing:
         print(logo)
         print("Guess who has the bigger social media following. Remember, social media is fake, kids.")

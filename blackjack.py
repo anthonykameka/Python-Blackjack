@@ -1,3 +1,6 @@
+#console blackjack game
+
+
 logo = """
 .------.            _     _            _    _            _    
 |A_  _ |.          | |   | |          | |  (_)          | |   
