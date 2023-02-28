@@ -1,5 +1,6 @@
 # Python-Mini-Projects
 ## 6 - Turtle Race
+Using Turtle gui to race turtles
 ![turtle_race](https://user-images.githubusercontent.com/89666837/221979339-06c400a9-50d8-432d-9914-2127f8c1c6bb.gif)
 
 
