@@ -1,5 +1,6 @@
 # Python-Mini-Projects
-
+## 5 - Hirst Circle art (using turtle module)
+Recreate the famous NFT circle art by Damien Hirst. 
 ## 4 - Coffee Machine
 Coffee machine program. User selects option, puts in change depending on inventory.
 ## 3 - Quiz Game
