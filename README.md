@@ -1,5 +1,5 @@
 # Python-Mini-Projects
-## 5 - Hirst Circle art (using turtle module)
+## 5 - Hirst Circle art (using turtle GUI)
 
 ![Screenshot 2023-02-27 235032](https://user-images.githubusercontent.com/89666837/221757287-0e09d2cd-b14b-4d42-ad5a-66cdd43faa0e.png)
 
