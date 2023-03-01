@@ -2,7 +2,7 @@
 
 ## 7 - Snake Game
 ![snake game](https://user-images.githubusercontent.com/89666837/222018552-5ba76fce-0d8f-42bc-9f05-89773990d74d.gif)
-Recreating the classic Snake game using the Turtle GUI.
+/n Recreating the classic Snake game using the Turtle GUI.
 Helped to further understand class inherentance
 ## 6 - Turtle Race
 
