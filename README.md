@@ -2,7 +2,7 @@
 
 ## 9 - Turtle Crossing Game
 ![turtle_crossing](https://user-images.githubusercontent.com/89666837/222214725-575415d0-836d-4697-9a34-75b6385d3553.gif)
-Another great excercise to fully understand OOP languages and working with classes and inheritance.
+<br>Another great excercise to fully understand OOP languages and working with classes and inheritance.
 
 ## 8 - Pong
 ![pong_game](https://user-images.githubusercontent.com/89666837/222055924-8732d168-3cf6-4c01-805c-2d24bd6dec4b.gif)
