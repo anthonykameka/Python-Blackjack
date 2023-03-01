@@ -1,5 +1,9 @@
 # Python-Mini-Projects
 
+## 8 - Pong
+![pong_game](https://user-images.githubusercontent.com/89666837/222055679-3de2abf8-a615-4b73-9491-5d5e20527ece.gif)
+<br> Recreating Pong using turtle GUI
+
 ## 7 - Snake Game
 ![snake game](https://user-images.githubusercontent.com/89666837/222018552-5ba76fce-0d8f-42bc-9f05-89773990d74d.gif)
 <br> Recreating the classic Snake game using the Turtle GUI.
