@@ -1,5 +1,8 @@
 # Python-Mini-Projects
 
+##10 - Mail Merge 
+Simple Mail merge program. Recreating a letter-invitation per name in other file. 
+
 ## 9 - Turtle Crossing Game
 ![turtle_crossing](https://user-images.githubusercontent.com/89666837/222214725-575415d0-836d-4697-9a34-75b6385d3553.gif)
 <br>Another great excercise to fully understand OOP languages and working with classes and inheritance.
