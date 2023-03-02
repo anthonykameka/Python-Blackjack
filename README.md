@@ -1,5 +1,9 @@
 # Python-Mini-Projects
 
+## 11 - State Guessing Game
+![states_game](https://user-images.githubusercontent.com/89666837/222576770-fa8c5724-9437-4b24-9348-015140852ed5.gif)
+<br> State guessing game. Good exercise using Turtle and pandas. Data provided by csv file. 
+
 ## 10 - Mail Merge 
 Simple Mail merge program. Recreating a letter-invitation per name in other file. 
 
