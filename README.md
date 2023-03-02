@@ -1,6 +1,6 @@
 # Python-Mini-Projects
 
-##10 - Mail Merge 
+## 10 - Mail Merge 
 Simple Mail merge program. Recreating a letter-invitation per name in other file. 
 
 ## 9 - Turtle Crossing Game
