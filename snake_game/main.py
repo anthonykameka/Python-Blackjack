@@ -40,8 +40,9 @@ while playing:
     ## Detect collision with wall
 
     if stony.head.xcor() > 280 or stony.head.xcor() < -280 or stony.head.ycor() > 280 or stony.head.ycor() < -280:
-        scoreboard.game_over()
-        playing = False
+        scoreboard.reset()
+        stony.reset()
+
 
 
     ## Detect collision with tail
@@ -49,8 +50,8 @@ while playing:
     for part in stony.snake_parts[1:]:
 
         if part.distance(stony.head)<10:
-            scoreboard.game_over()
-            playing = False
+            scoreboard.reset()
+            stony.reset()
 
 
 

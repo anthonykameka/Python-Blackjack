@@ -59,3 +59,10 @@ class Snake:
         last = self.snake_parts[-1]
         self.add_part(last.pos())
 
+    def reset(self):
+        for part in self.snake_parts:
+            part.goto(1000, 1000)
+        self.snake_parts.clear()
+        self.create_snake()
+        self.head = self.snake_parts[0]
+
