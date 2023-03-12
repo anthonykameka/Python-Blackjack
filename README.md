@@ -3,7 +3,7 @@
 ## 12 - NATO Phonetic App
 ![image](https://user-images.githubusercontent.com/89666837/224578729-91b5a054-84ee-43a1-80f0-f3816d5a82c3.png)
 <br> uses panda to read CSV file. 
-User runs main.py and can enter any word(s) and would ne provided with the phonetic equivalent for each letter in word.
+User runs main.py and can enter any word(s) and would be provided with the phonetic equivalent for each letter in word.
 
 ## 11 - State Guessing Game
 ![states_game](https://user-images.githubusercontent.com/89666837/222576770-fa8c5724-9437-4b24-9348-015140852ed5.gif)
